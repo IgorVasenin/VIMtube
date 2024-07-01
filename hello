@@ -1,0 +1,5 @@
+<?php
+echo '<h1>Привет, добро пожаловать на VIMtube</h1>';
+echo 'Зарегистрируйтесь или войдите';
+<a href='https://github.com/IgorVasenin/VIMtube/logup'><Зарегистрироваться</button></a>
+<a href='https://github.com/IgorVasenin/VIMtube/login'><Войти</button></a>
